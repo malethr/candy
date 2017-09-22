@@ -2,6 +2,7 @@ node_modules/
 npm-debug.log
 bower_components/
 app/*.js
+app/main*.js.map
 app/*.js.map
 .DS_Store
 build/
